@@ -21,5 +21,5 @@ I'm backend and a future ML engineer
 ⚡️ Fun fact... I just use python.
 
 
-![Logo]()
+![Logo](https://share.google/eHb6JPEBrlbQC8mn5)
 
