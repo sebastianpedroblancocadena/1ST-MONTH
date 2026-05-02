@@ -1,9 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
 
-###
- 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm backend and a future ML engineer
 
 
 # Hi, I'm Sebastián! 👋
@@ -24,5 +21,5 @@ I'm a full stack developer...
 ⚡️ Fun fact... I just use python.
 
 
-![Logo](https://pin.it/65eByvDGq)
+![Logo]()
 
